@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
       debugShowCheckedModeBanner: false,
       title: "MadeChat",
-      home: HomePage(authBase: Auth()),
+      home: SplashPage(),
     );
   }
 }

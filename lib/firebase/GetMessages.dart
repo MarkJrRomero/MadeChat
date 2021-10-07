@@ -26,7 +26,7 @@ class _GetMessages extends State<GetMessages> {
         if (snapshot.connectionState == ConnectionState.waiting) {
           return Text("Cargando...");
         }
-        
+
         return ListView(
           reverse: true,
           children: snapshot.data!.docs.map((DocumentSnapshot document) {
