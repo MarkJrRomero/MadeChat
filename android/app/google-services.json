@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818670555885",
+    "project_id": "madechat-924fe",
+    "storage_bucket": "madechat-924fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818670555885:android:5ad4db9b1df85ae4bbb2e4",
+        "android_client_info": {
+          "package_name": "com.example.login_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818670555885-hqageb1mgb0c61e0a4cqoqv8qqrgefv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClBUkJ261cHi6CMJO1njnmXkQux6PSYec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818670555885-hqageb1mgb0c61e0a4cqoqv8qqrgefv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
